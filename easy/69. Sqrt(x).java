@@ -1,3 +1,4 @@
+package easy;
 //https://leetcode.com/problems/sqrtx/
 
 class Solution {
